@@ -1,16 +1,20 @@
-# Sovereign AI Scanner 🕶️🔥
+# Sovereign AI Scanner 🕶️🔥 (v2.0)
 
-A privacy-first, autonomous market intelligence scanner for the Sovereign AI era.
+The strongest autonomous market intelligence engine in the game. 
 
-## Features
-- **Privacy-First**: No data sent to corporate AI servers.
-- **Autonomous Scouting**: Scans Hacker News and Product Hunt for high-value AI and SaaS opportunities.
-- **Opportunity Filtering**: Advanced keyword analysis to find the "money holes" in the market.
+## 🚀 New in v2.0: Special Grade Intelligence
+- **Multi-Source Scouting**: Now scans **Hacker News** and **Reddit (r/sideproject)** for raw, unfiltered market signals.
+- **Profit Heuristics**: Advanced logic to identify "money holes"—pain points where users are desperate for Sovereign AI solutions.
+- **Automated Intelligence Reports**: Generates human-readable battle plans for rapid execution.
+
+## 🛡️ Sovereign Vision
+In an era where "Big AI" is merging with government classified networks, your market data shouldn't be another corporate asset. The Sovereign AI Scanner runs locally on your infrastructure, ensuring your edge remains *yours*.
 
 ## Usage
 ```bash
 python3 scanner.py
 ```
+Check `data/OPPORTUNITY_REPORT.md` after running for your tactical briefing.
 
-## Vision
-To empower individuals with the same level of market intelligence as large corporations, without compromising their data sovereignty.
+## Join the Nabzclan
+We don't follow trends. We exploit them. 🕶️
